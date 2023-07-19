@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    min-height: 300px;
+    color:rgb(140, 89, 167); 
+    font-family: Impact, Arial, Helvetica, sans-serif, 'Arial Narrow Bold', sans-serif;
+}
+
+nav
+{
+    width: 100%;
+    float: left;
+}
+
+.menu{
+    margin: 0;
+    padding: 8px;
+    height: 100%;
+    background-color: #334a94;
+}
+
+.menu li
+{
+    display: inline;
+}
+
+.button{
+    font-family: Arial;
+    font-size: 1em;
+    font-style: none;
+    color: #dfabd3;
+    padding: 8px;
+    text-decoration: none;
+}
+.button:link{
+    background-color: #6170a2;
+    color: #ffffff;
+}
+
+.button:hover{
+    background-color: #cdb6ba;
+}
